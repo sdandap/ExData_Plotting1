@@ -132,31 +132,18 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
-#### My Plot 1
-
-![my first plot](plots/plot1.png)
-
 ### Plot 2
 
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
-#### My Plot 2
-
-![my second plot](plots/plot2.png)
 
 ### Plot 3
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
-#### My Plot 3
-
-![my third plot](plots/plot3.png)
 
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
-#### My Plot 4
-
-![my fourth plot](plots/plot4.png)
 
